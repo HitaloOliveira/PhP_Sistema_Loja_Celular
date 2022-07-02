@@ -1,0 +1,27 @@
+/* css personalizado */
+/*
+body{
+	padding-top:70px;	
+	padding-bottom:70px;
+} */
+.colunaCinza{
+    background: gray;
+}
+.colunaAzul{
+    background: blue;
+}
+.colunaVerde{
+    background: green;
+}
+.colunaVermelha{
+    background: red;
+}
+.colunaAmarela{
+    background: yellow;
+}
+.colunaRosa{
+    background: pink;
+}
+.bgPadding, .bgPadding p{
+    padding: 20px;
+}
